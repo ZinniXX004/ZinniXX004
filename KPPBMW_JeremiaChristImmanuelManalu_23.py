@@ -2,13 +2,9 @@
 Author : Jemy
 NN     : znt_sp_4
 
-(+)
-Includes an upload option to visualize a new ECG data file for ".txt" extension.
-Includes a download button for downloading the ECG data.
-Two ways to help visualize the given ECG data.
-
-(-)
-The downloaded ECG data is in temporary file (.csv extension)
+- Includes an upload option to visualize a new ECG data file for ".txt" extension.
+- Includes a download button for downloading the ECG data (in text and image).
+- Two ways to help visualize the given ECG data.
 '''
 
 # Import required libraries and modules
@@ -17,10 +13,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 import tempfile
+import base64 # For downloading ECG data image
 
 # Define the Streamlit app title and header (KPP BMW)
 st.title("KPP BMW")
-st.subheader("Name  : Jeremia Christ Immanuel Manalu")
+st.header("Name  : Jeremia Christ Immanuel Manalu")
 st.subheader("Batch : BME 23")
 
 # Define a function to check if there is an appropiate path to the ECG data file. Else, it will raise an exception.
@@ -29,7 +26,7 @@ def load_ecg_data(file_path):
         ecg_data = np.loadtxt(file_path, dtype='float')
         return ecg_data
     except FileNotFoundError:
-        st.error(f"File '{file_path}' not found. Please upload your ECG data file.")
+        st.error(f"File '{file_path}' Not found. Please upload your ECG data file.")
         st.stop()
 
 # Load the ECG data from the text(.txt) file
@@ -68,18 +65,33 @@ ECG_Full = np.arange(Ndata)
 plt.plot(ECG_Full, ecg_data)
 st.pyplot(plt) 
 
-# Add a button to download the ECG data
-st.sidebar.markdown("## Download ECG Data")
+# Add a button to download the ECG data in raw text
+st.sidebar.markdown("## Download ECG Data (Raw)")
 
 # Save the ECG data to a temporary CSV file
 temp_dir = tempfile.gettempdir()
 temp_file_path = os.path.join(temp_dir, "ecg_data.csv")
 np.savetxt(temp_file_path, ecg_data, delimiter=',', fmt='%f')
 
-# Provide a download link to the temporary file
+# Provide a download link to the temporary file (in text)
 st.sidebar.download_button(
-    label="Click here to download ECG Data (in .csv)",
-    data=temp_file_path,
-    key="ecg_data.csv",
-    file_name="ecg_data.csv"
+    label = "Click here to download ECG Data (in .csv)",
+    data = temp_file_path,
+    key = "ecg_data.csv",
+    file_name = "ecg_data.csv"
 )
+
+# Add a button to download the ECG plot image file
+st.sidebar.markdown("## Download ECG Plot Image (Full Visualization)")
+
+# Save the ECG plot as a temporary image file (PNG)
+temp_dir = tempfile.gettempdir()
+temp_image_path = os.path.join(temp_dir, "ecg_plot.png")
+plt.savefig(temp_image_path, format="png")
+
+# Provide a download link for the image (encode as base64)
+with open(temp_image_path, "rb") as img_file:
+    img_bytes = img_file.read()
+    img_b64 = base64.b64encode(img_bytes).decode()
+# Use HTML anchor tag to provide the download link
+st.sidebar.markdown(f'<a href="data:image/png;base64,{img_b64}" download="ecg_plot.png">Click here to download ECG Plot Image</a>', unsafe_allow_html=True)
