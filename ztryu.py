@@ -73,7 +73,7 @@ st.pyplot(plt)
 st.write("## Health Rate Data Full Visualization")
 
 # Configure the plot (2) and display it -> Full Health Rate Data (Before)
-Ndata2 = len(data_before)
+Ndata1 = len(data_before)
 Before_Full = np.arange(Ndata1)
 plt.plot(Before_Full, data_before)
 st.pyplot(plt) 
