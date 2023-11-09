@@ -55,8 +55,8 @@ data2 = data_after[10 : 500]
 plt.figure(figsize=(18, 8))
 plt.plot(data1, color='red', label='Health Rate Plot (Before)')
 plt.xlabel('Time') # x-axis label
-plt.ylabel('Amplitude') #y-axis label
-plt.title('ECG Signal')
+plt.ylabel('Heart Rate') #y-axis label
+plt.title('Before')
 plt.grid(True)
 st.pyplot(plt)
 
@@ -64,8 +64,8 @@ st.pyplot(plt)
 plt.figure(figsize=(18, 8))
 plt.plot(data2, color='red', label='Health Rate Plot (After)')
 plt.xlabel('Time') # x-axis label
-plt.ylabel('Amplitude') #y-axis label
-plt.title('ECG Signal')
+plt.ylabel('Heart rate') #y-axis label
+plt.title('After')
 plt.grid(True)
 st.pyplot(plt)
  
@@ -73,8 +73,8 @@ st.pyplot(plt)
 st.write("## Health Rate Data Full Visualization")
 
 # Configure the plot (2) and display it -> Full Health Rate Data (Before)
-Ndata = len(data_before)
-Before_Full = np.arange(Ndata)
+Ndata2 = len(data_before)
+Before_Full = np.arange(Ndata1)
 plt.plot(Before_Full, data_before)
 st.pyplot(plt) 
 
@@ -82,7 +82,7 @@ st.pyplot(plt)
 st.write("## Health Rate Data Full Visualization")
 
 # Configure the plot (2) and display it -> Full Health Rate Data (After)
-Ndata = len(data_after)
-After_Full = np.arange(Ndata)
+Ndata2 = len(data_after)
+After_Full = np.arange(Ndata2)
 plt.plot(After_Full, data_after)
 st.pyplot(plt) 
