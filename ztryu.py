@@ -29,10 +29,10 @@ def load_data(file_path):
 
 # Load the ECG data from the text(.txt) file
 data_file_sebelum = "Heart Rate_Rainhard_Sebelum.txt"
-data_after = load_data(data_file_sebelum)
+data_before = load_data(data_file_sebelum)
 
 data_file_sesudah = "Heart Rate_Rainhard_Sesudah.txt"
-data_before = load_data(data_file_sesudah)
+data_after = load_data(data_file_sesudah)
 
 # Create a Streamlit sidebar to upload a new data file
 uploaded_file = st.sidebar.file_uploader("Upload New Data (in .txt format)")
