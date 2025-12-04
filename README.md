@@ -14,13 +14,13 @@
 
 `Warning: Authorized access only.`
 
-> I'm a Biomedical Engineering student obsessed with reverse-engineering how life works and simulating it with code. I don't just write software, I build digital ecosystems.
+> I'm a Biomedical Engineering student obsessed with ~~reverse-engineering~~ how life works and simulating it with code. I don't just write software, I also build ~~digital ecosystems~~ something.
 
-> When I'm not analyzing bio-signals or training neural nets to predict the future, I'm usually breaking things in Rust or automating my entire existence with Python. I live in the terminal, speak in binary, and drink way too much caffeine.
+> When I'm not analyzing bio-signals or training neural nets to predict the future, I'm usually breaking things in Rust or automating my entire existence with Python. I live in the terminal, speak in ~~binary~~, and drink way too much caffeine.
 
 📡 **Current Objective:** Integrating AI/ML into biological frameworks.
 
-💀 **Status:** Surviving engineering school & fighting memory leaks.
+💀 **Status:** Surviving engineering & fighting memory leaks.
 
 👾 **Side Quest:** Building web apps that don't suck.
 
