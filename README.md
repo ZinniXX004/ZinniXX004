@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h3>Apiring: 🧪Biomedical-Engineer | 🤖 ML Architect | 🏴‍☠️ Full Stack Breacher</h3>
+<h3>Aspiring: 🧪Biomedical-Engineer | 🤖 ML Architect | 🏴‍☠️ Full Stack Breacher</h3>
 
 <p><i>"Merging biological systems with synthetic intelligence."</i></p>
 
@@ -69,7 +69,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -140,7 +140,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </a>
 <a href="https://archlinux.org/">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch" />
+  <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch" />
 </a>
 <a href="https://www.redhat.com/">
   <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RedHat" />
