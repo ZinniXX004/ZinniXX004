@@ -172,7 +172,7 @@
   <img src="https://img.shields.io/badge/Proteus-005496?style=for-the-badge&logo=proteus&logoColor=white" alt="Proteus" />
 </a>
 <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html">
-  <img src="https://img.shields.io/badge/LTspice-B71C1C?style=for-the-badge&logo=ltspices&logoColor=white" alt="LTspice" />
+  <img src="https://img.shields.io/badge/LTspice-B71C1C?style=for-the-badge&logo=ltspice&logoColor=white" alt="LTspice" />
 </a>
 
 &nbsp; <br/>
