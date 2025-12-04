@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </a>
 <a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-008000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </a>
 <a href="https://www.embarcadero.com/products/delphi">
   <img src="https://img.shields.io/badge/Pascal-115599?style=for-the-badge&logo=delphi&logoColor=white" alt="Pascal" />
@@ -150,6 +150,41 @@
 </a>
 <a href="https://www.zsh.org/">
   <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" alt=".zh" />
+</a>
+
+&nbsp; <!-- Hardware & Tools -->
+&nbsp; <br/>
+&nbsp; <br/>
+&nbsp; <b>HARDWARE & TOOLS</b>
+&nbsp; <br/>
+&nbsp; <br/>
+
+<a href="https://www.arduino.cc/">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+</a>
+<a href="https://www.espressif.com/">
+  <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="Espressif" />
+</a>
+<a href="https://www.kicad.org/">
+  <img src="https://img.shields.io/badge/KiCad-3145A0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+</a>
+<a href="https://www.labcenter.com/">
+  <img src="https://img.shields.io/badge/Proteus-005496?style=for-the-badge&logo=proteus&logoColor=white" alt="Proteus" />
+</a>
+<a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html">
+  <img src="https://img.shields.io/badge/LTspice-B71C1C?style=for-the-badge&logo=ltspices&logoColor=white" alt="LTspice" />
+</a>
+
+&nbsp; <br/>
+
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</a>
+<a href="https://kubernetes.io/">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </a>
 
 </div>
