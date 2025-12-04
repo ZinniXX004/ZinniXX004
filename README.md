@@ -93,10 +93,13 @@
 
 <p>
   <a href="https://github.com/ZinniXX004">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZinniXX004&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=0d1117&title_color=B558F6&icon_color=B558F6" alt="ZinniXX004's Stats" />
+    <img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Stats" />
   </a>
+</p>
+
+<p>
   <a href="https://github.com/ZinniXX004">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZinniXX004&layout=compact&theme=shades-of-purple&hide_border=true&bg_color=0d1117&title_color=B558F6" alt="Top Languages" />
+    <img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages" />
   </a>
 </p>
 
