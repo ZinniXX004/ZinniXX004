@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h3>🧪 Bio-Engineer | 🤖 ML Architect | 🏴‍☠️ Full Stack Breacher</h3>
+<h3>Apiring: 🧪Biomedical-Engineer | 🤖 ML Architect | 🏴‍☠️ Full Stack Breacher</h3>
 
 <p><i>"Merging biological systems with synthetic intelligence."</i></p>
 
@@ -14,7 +14,7 @@
 
 `Warning: Authorized access only.`
 
-> I'm a Biomedical Engineering student obsessed with reverse-engineering how life works and simulating it with code. I don't just write software; I build digital ecosystems.
+> I'm a Biomedical Engineering student obsessed with reverse-engineering how life works and simulating it with code. I don't just write software, I build digital ecosystems.
 
 > When I'm not analyzing bio-signals or training neural nets to predict the future, I'm usually breaking things in Rust or automating my entire existence with Python. I live in the terminal, speak in binary, and drink way too much caffeine.
 
