@@ -1,30 +1,45 @@
+<!--
+THEME PROFILE
+ZinniXX004
+-->
+
+<!-- Terminal Header Animation -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello,+I'm+ZinniXX004;Welcome+to+my+Github+Profile;I+Build+Things+with+Code" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D28%26pause%3D1000%26color%3D00FF00%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3D%253E%2BWake%2Bup,%2BZinniXX004...%3B%253E%2BSystem:%2BBiomedical_Engineering%3B%253E%2BInstalling:%2BAI_%2B%2526%2BMachine_Learning%3B%253E%2BStatus:%2BBreaching%2BWeb_Dev%3B%253E%2BWelcome%2Bto%2Bthe%2Bmainframe." alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>🚀 Full Stack Developer | Systems Engineer | Data Enthusiast</h3>
-  <p><i>"Turning coffee into efficient code across Windows & Linux environments."</i></p>
+<h3>🧪 Bio-Engineer | 🤖 ML Architect | 🏴‍☠️ Full Stack Breacher</h3>
+<p><i>"Merging biological systems with synthetic intelligence."</i></p>
 </div>
 
----
+<!-- Terminal Bio Section -->
 
-### ⚡ About Me
+📟 /root/user_info.txt
 
-I am a passionate developer with a versatile skill set ranging from low-level systems programming to modern web frameworks. I thrive in both Windows and Linux environments and love optimizing workflows with custom scripts.
+Warning: Authorized access only.
 
-- 🔭 I’m currently working on **systems programming and full-stack web development**.
-- 🌱 I’m currently learning **advanced memory management in Rust and AI integration**.
-- 💬 Ask me about **C++, Python, Linux Kernel, or .NET Architecture**.
-- 📫 How to reach me: **[Your Email Here]**
+I'm a Biomedical Engineering student obsessed with reverse-engineering how life works and simulating it with code. I don't just write software; I build digital ecosystems.
 
----
+When I'm not analyzing bio-signals or training neural nets to predict the future, I'm usually breaking things in Rust or automating my entire existence with Python. I live in the terminal, speak in binary, and drink way too much caffeine.
 
-### 🛠️ Languages & Tools
+📡 Current Objective: Integrating AI/ML into biological frameworks.
+
+💀 Status: Surviving engineering school & fighting memory leaks.
+
+👾 Side Quest: Building web apps that don't suck.
+
+🐧 Philosophy: If it can't be automated, is it even worth doing?
+
+<!-- Arsenal Section -->
+
+⚔️ The Arsenal (Capabilities)
 
 <div align="center">
 
-  <br/>
+<!-- Languages -->
+<br/>
   <b>PROGRAMMING LANGUAGES</b>
   <br/>
   <br/>
@@ -43,6 +58,7 @@ I am a passionate developer with a versatile skill set ranging from low-level sy
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 
+  <!-- Frameworks -->
   <br/>
   <br/>
   <b>FRAMEWORKS & LIBRARIES</b>
@@ -57,6 +73,7 @@ I am a passionate developer with a versatile skill set ranging from low-level sy
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 
+  <!-- OS & Environments -->
   <br/>
   <br/>
   <b>OS & ENVIRONMENTS</b>
@@ -77,37 +94,46 @@ I am a passionate developer with a versatile skill set ranging from low-level sy
 
 </div>
 
----
+<!-- Stats Section -->
 
 <div align="center">
-  <h3>📊 GitHub Analytics</h3>
-  <br/>
-  <a href="https://github.com/ZinniXX004">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZinniXX004&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F1F1F1&text_color=8B949E" alt="ZinniXX004's Stats" />
-  </a>
-  <a href="https://github.com/ZinniXX004">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZinniXX004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages" />
-  </a>
-  <br/>
-  <a href="https://github.com/ZinniXX004">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZinniXX004&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=E25822&currStreakLabel=58A6FF" alt="Streak Stats" />
-  </a>
+<h3>📊 Data Visualization</h3>
+
+
+
+
+
+<a href="https://github.com/ZinniXX004">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DZinniXX004%26show_icons%3Dtrue%26theme%3Dmidnight-purple%26hide_border%3Dtrue%26bg_color%3D000000%26title_color%3D00FF00%26icon_color%3D00FF00%26text_color%3DFFFFFF" alt="ZinniXX004's Stats" />
+</a>
+<a href="https://github.com/ZinniXX004">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DZinniXX004%26layout%3Dcompact%26theme%3Dmidnight-purple%26hide_border%3Dtrue%26bg_color%3D000000%26title_color%3D00FF00%26text_color%3DFFFFFF" alt="Top Languages" />
+</a>
+
+
+
+
+
+<a href="https://github.com/ZinniXX004">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DZinniXX004%26theme%3Dmidnight-purple%26hide_border%3Dtrue%26background%3D000000%26ring%3D00FF00%26fire%3D00FF00%26currStreakLabel%3D00FF00%26sideNums%3DFFFFFF%26dates%3DFFFFFF" alt="Streak Stats" />
+</a>
 </div>
 
----
+<!-- Connect Section -->
 
 <div align="center">
-  <h3>🤝 Connect with Me</h3>
-  <a href="https://github.com/ZinniXX004">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+<h3>📡 Establish_Uplink</h3>
+<a href="https://github.com/ZinniXX004">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
+</a>
+<!-- Replace # with your actual profile links -->
+<a href="https://www.linkedin.com/in/jeremia-manalu-5bba53284">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+<a href="#">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/X_(Twitter)-000000%3Fstyle%3Dfor-the-badge%26logo%3Dx%26logoColor%3Dwhite" alt="Twitter"/>
+</a>
+<a href="https://instagram.com/znt___4?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 </div>
