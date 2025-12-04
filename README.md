@@ -101,7 +101,9 @@
 </p>
 
 <p>
-  <img src="https://github.com/ZinniXX004/ZinniXX004/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <a href="https://github.com/ZinniXX004/ZinniXX004/actions">
+    <img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  </a>
 </p>
 
 <p>
