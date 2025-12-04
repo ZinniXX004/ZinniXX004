@@ -1,40 +1,44 @@
 <!--
-THEME PROFILE
-ZinniXX004
+RETRO-FUTURISTIC PURPLE HACKER THEME
+USER: ZinniXX004
 -->
 
-<!-- Terminal Header Animation -->
+<!--
+HEADER: 80s CRT Terminal Style
+Font: VT323 (Pixelated Retro)
+Color: Neon Purple (#d500f9)
+-->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D28%26pause%3D1000%26color%3D00FF00%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3D%253E%2BWake%2Bup,%2BZinniXX004...%3B%253E%2BSystem:%2BBiomedical_Engineering%3B%253E%2BInstalling:%2BAI_%2B%2526%2BMachine_Learning%3B%253E%2BStatus:%2BBreaching%2BWeb_Dev%3B%253E%2BWelcome%2Bto%2Bthe%2Bmainframe." alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DVT323%26weight%3D400%26size%3D35%26pause%3D1000%26color%3DD500F9%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3D%253E%2BINITIALIZING_SYSTEM...%3B%253E%2BUSER:_ZinniXX004%3B%253E%2BCLASS:_BIO-ENGINEER_W%252F_AI_CORE%3B%253E%2BSTATUS:_ONLINE" alt="Typing SVG" />
 </div>
 
 <div align="center">
-<h3>🧪 Bio-Engineer | 🤖 ML Architect | 🏴‍☠️ Full Stack Breacher</h3>
-<p><i>"Merging biological systems with synthetic intelligence."</i></p>
+<h3>🧪 Bio-Hacker | 🔮 Neural Net Architect | 👾 Full Stack Phantom</h3>
+<p><i>"Injecting code into biology. Compiling the future."</i></p>
 </div>
 
-<!-- Terminal Bio Section -->
+<!-- BIO: Terminal Text File Style -->
 
-📟 /root/user_info.txt
+📟 /var/log/user_bio.log
 
-Warning: Authorized access only.
+System Alert: Unauthorized decryption detected.
 
-I'm a Biomedical Engineering student obsessed with reverse-engineering how life works and simulating it with code. I don't just write software; I build digital ecosystems.
+I am a Biomedical Engineering student obsessed with the intersection of organic life and synthetic intelligence. I don't just study systems; I reverse-engineer them.
 
-When I'm not analyzing bio-signals or training neural nets to predict the future, I'm usually breaking things in Rust or automating my entire existence with Python. I live in the terminal, speak in binary, and drink way too much caffeine.
+When I'm not decoding biological signals or training neural networks to predict chaos, I'm deep in the Linux kernel, optimizing Rust memory safety, or building web architectures that scale infinitely. I live in the terminal, dream in hex, and survive on caffeine.
 
-📡 Current Objective: Integrating AI/ML into biological frameworks.
+🔮 Main Quest: Merging AI/ML with biological frameworks.
 
-💀 Status: Surviving engineering school & fighting memory leaks.
+🩸 Status: Analyzing extensive datasets & fighting segmentation faults.
 
-👾 Side Quest: Building web apps that don't suck.
+🕹️ Side Quest: Crafting immersive web experiences.
 
-🐧 Philosophy: If it can't be automated, is it even worth doing?
+🧠 Philosophy: Reality is just a dataset waiting to be parsed.
 
-<!-- Arsenal Section -->
+<!-- ARSENAL: Badges formatted with a dark/purple aesthetic where possible -->
 
-⚔️ The Arsenal (Capabilities)
+⚔️ The Arsenal
 
 <div align="center">
 
@@ -94,20 +98,20 @@ When I'm not analyzing bio-signals or training neural nets to predict the future
 
 </div>
 
-<!-- Stats Section -->
+<!-- STATS: Custom Dark Purple Theme -->
 
 <div align="center">
-<h3>📊 Data Visualization</h3>
+<h3>📊 Data Stream</h3>
 
 
 
 
 
 <a href="https://github.com/ZinniXX004">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DZinniXX004%26show_icons%3Dtrue%26theme%3Dmidnight-purple%26hide_border%3Dtrue%26bg_color%3D000000%26title_color%3D00FF00%26icon_color%3D00FF00%26text_color%3DFFFFFF" alt="ZinniXX004's Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DZinniXX004%26show_icons%3Dtrue%26hide_border%3Dtrue%26bg_color%3D0d0221%26title_color%3Dd500f9%26icon_color%3Db300ff%26text_color%3Dffffff" alt="ZinniXX004's Stats" />
 </a>
 <a href="https://github.com/ZinniXX004">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DZinniXX004%26layout%3Dcompact%26theme%3Dmidnight-purple%26hide_border%3Dtrue%26bg_color%3D000000%26title_color%3D00FF00%26text_color%3DFFFFFF" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DZinniXX004%26layout%3Dcompact%26hide_border%3Dtrue%26bg_color%3D0d0221%26title_color%3Dd500f9%26text_color%3Dffffff" alt="Top Languages" />
 </a>
 
 
@@ -115,25 +119,25 @@ When I'm not analyzing bio-signals or training neural nets to predict the future
 
 
 <a href="https://github.com/ZinniXX004">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DZinniXX004%26theme%3Dmidnight-purple%26hide_border%3Dtrue%26background%3D000000%26ring%3D00FF00%26fire%3D00FF00%26currStreakLabel%3D00FF00%26sideNums%3DFFFFFF%26dates%3DFFFFFF" alt="Streak Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DZinniXX004%26hide_border%3Dtrue%26background%3D0d0221%26ring%3Dd500f9%26fire%3Dd500f9%26currStreakLabel%3Dd500f9%26sideNums%3Dffffff%26dates%3Dffffff" alt="Streak Stats" />
 </a>
 </div>
 
-<!-- Connect Section -->
+<!-- LINKS: Updated Twitter to Youtube -->
 
 <div align="center">
 <h3>📡 Establish_Uplink</h3>
 <a href="https://github.com/ZinniXX004">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
 </a>
-<!-- Replace # with your actual profile links -->
 <a href="https://www.linkedin.com/in/jeremia-manalu-5bba53284">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
-<a href="#">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/X_(Twitter)-000000%3Fstyle%3Dfor-the-badge%26logo%3Dx%26logoColor%3Dwhite" alt="Twitter"/>
+<!-- Replaced Twitter with YouTube as requested -->
+<a href="https://www.google.com/url?sa=E&source=gmail&q=https://www.youtube.com/@ZinniXX_4">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite" alt="YouTube"/>
 </a>
-<a href="https://instagram.com/znt___4?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D">
+<a href="https://www.google.com/search?q=https://instagram.com/znt___4%3Futm_source%3Dqr%26igshid%3DZDc4ODBmNjlmNQ%3D%3D">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 </div>
