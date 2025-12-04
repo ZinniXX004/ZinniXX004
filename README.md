@@ -137,7 +137,7 @@ When I'm not decoding biological signals or training neural networks to predict 
 <a href="https://www.google.com/url?sa=E&source=gmail&q=https://www.youtube.com/@ZinniXX_4">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite" alt="YouTube"/>
 </a>
-<a href="https://www.google.com/search?q=https://instagram.com/znt___4%3Futm_source%3Dqr%26igshid%3DZDc4ODBmNjlmNQ%3D%3D">
+<a href="https://instagram.com/znt___4?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 </div>
