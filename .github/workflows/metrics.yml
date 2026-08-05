@@ -35,6 +35,7 @@ jobs:
           plugin_isocalendar_duration: full-year
 
       # 2. Language activity (most-used + recently-used)
+      #    repositories_* widened so private repos are included in the stats
       - name: Language activity
         uses: lowlighter/metrics@latest
         with:
@@ -45,14 +46,18 @@ jobs:
           config_timezone: Asia/Jakarta
           config_display: large
           config_padding: 4%, 6%
+          repositories_affiliations: owner, collaborator
+          repositories: 100
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 12
+          plugin_languages_ignored: >-
+            html, css, tex, batchfile, shell, makefile
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 90
-          plugin_languages_recent_load: 400
+          plugin_languages_recent_days: 365
+          plugin_languages_recent_load: 1000
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: no
 
@@ -73,23 +78,7 @@ jobs:
           plugin_people_types: followers, following, stargazers
           plugin_people_identicons: no
 
-      # 4. Repository license (repository template, needs a LICENSE file)
-      - name: Repository license
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: ZinniXX004
-          filename: metrics/licenses.svg
-          template: repository
-          repo: ZinniXX004
-          base: ""
-          config_timezone: Asia/Jakarta
-          config_display: large
-          config_padding: 4%, 6%
-          plugin_licenses: yes
-          plugin_licenses_ratio: yes
-
-      # 5. Recent coding habits (isolated so a failure cannot break other panels)
+      # 4. Recent coding habits (isolated so a failure cannot break other panels)
       - name: Coding habits
         uses: lowlighter/metrics@latest
         continue-on-error: true
@@ -109,7 +98,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_trim: yes
 
-      # 6. Achievements (isolated so a failure cannot break other panels)
+      # 5. Achievements (isolated so a failure cannot break other panels)
       - name: Achievements
         uses: lowlighter/metrics@latest
         continue-on-error: true
@@ -125,3 +114,49 @@ jobs:
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
+
+  # Repository license panels.
+  # plugin_licenses only works with template: repository, so one panel per repo.
+  # Only repos that actually have BOTH a LICENSE file and a dependency manifest
+  # are listed here; plugin_licenses_setup installs the dependencies so that
+  # dependency licenses can be resolved (otherwise it reports 0 dependencies).
+  # needs: metrics + max-parallel: 1 keeps commits to main sequential.
+  licenses:
+    runs-on: ubuntu-latest
+    needs: metrics
+    strategy:
+      fail-fast: false
+      max-parallel: 1
+      matrix:
+        include:
+          - repo: Yet-to-be-JoJo-s-RPG-Game-
+            slug: jojo-rpg
+            setup: cd src/core && cargo fetch
+          - repo: Multimodal-Biomedical-Data-Analysis-MBDA-Projects-and-Reports
+            slug: mbda
+            setup: pip install -r "MBDA_FP_GUI_ANN_CNN_root/requirements.txt"
+          - repo: Biomedical-Image-Processing-PCM-Projects-and-Reports
+            slug: pcm
+            setup: pip install -r "5023231017_Jeremia Christ Immanuel Manalu_Final Project_Nucleus Cell Detection and Segmentation_PCM/modular_scripts_root/requirements.txt"
+          - repo: Intro-to-Python
+            slug: intro-python
+            setup: pip install -r "5. Snake Game/requirements.txt"
+    steps:
+      - name: License panel for ${{ matrix.repo }}
+        uses: lowlighter/metrics@latest
+        continue-on-error: true
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ZinniXX004
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics/licenses/${{ matrix.slug }}.svg
+          template: repository
+          repo: ${{ matrix.repo }}
+          base: ""
+          config_timezone: Asia/Jakarta
+          config_display: large
+          config_padding: 4%, 6%
+          plugin_licenses: yes
+          plugin_licenses_setup: ${{ matrix.setup }}
+          plugin_licenses_ratio: yes
+          plugin_licenses_legal: yes

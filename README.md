@@ -133,15 +133,29 @@
 </p>
 
 <p>
-  <a href="https://github.com/ZinniXX004"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses.svg" alt="Repository license" width="100%" /></a>
-</p>
-
-<p>
   <a href="https://github.com/ZinniXX004"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/habits.svg" alt="Recent coding habits" width="100%" /></a>
 </p>
 
 <p>
   <a href="https://github.com/ZinniXX004"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/achievements.svg" alt="Achievements" width="100%" /></a>
+</p>
+
+<h4>REPOSITORY LICENSES</h4>
+
+<p>
+  <a href="https://github.com/ZinniXX004/Yet-to-be-JoJo-s-RPG-Game-"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses/jojo-rpg.svg" alt="Licenses - Yet-to-be JoJo's RPG Game" width="100%" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/ZinniXX004/Multimodal-Biomedical-Data-Analysis-MBDA-Projects-and-Reports"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses/mbda.svg" alt="Licenses - MBDA Projects and Reports" width="100%" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/ZinniXX004/Biomedical-Image-Processing-PCM-Projects-and-Reports"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses/pcm.svg" alt="Licenses - PCM Projects and Reports" width="100%" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/ZinniXX004/Intro-to-Python"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses/intro-python.svg" alt="Licenses - Intro to Python" width="100%" /></a>
 </p>
 
 <p>
