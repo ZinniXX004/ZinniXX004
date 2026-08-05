@@ -140,23 +140,48 @@
   <a href="https://github.com/ZinniXX004"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/achievements.svg" alt="Achievements" width="100%" /></a>
 </p>
 
-<h4>REPOSITORY LICENSES</h4>
-
+<details>
+<summary><b>REPOSITORY LICENSES</b></summary>
+<br/>
 <p>
-  <a href="https://github.com/ZinniXX004/Yet-to-be-JoJo-s-RPG-Game-"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses/jojo-rpg.svg" alt="Licenses - Yet-to-be JoJo's RPG Game" width="100%" /></a>
+  <a href="https://github.com/ZinniXX004/Biomodelling-Course-Projects-and-Reports"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses/biomodelling.svg" alt="Licenses - Biomodelling" width="100%" /></a>
 </p>
-
 <p>
-  <a href="https://github.com/ZinniXX004/Multimodal-Biomedical-Data-Analysis-MBDA-Projects-and-Reports"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses/mbda.svg" alt="Licenses - MBDA Projects and Reports" width="100%" /></a>
+  <a href="https://github.com/ZinniXX004/Biomedical-Signal-Processing-PSB-Course-Projects-and-Reports"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses/psb.svg" alt="Licenses - PSB" width="100%" /></a>
 </p>
-
 <p>
-  <a href="https://github.com/ZinniXX004/Biomedical-Image-Processing-PCM-Projects-and-Reports"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses/pcm.svg" alt="Licenses - PCM Projects and Reports" width="100%" /></a>
+  <a href="https://github.com/ZinniXX004/Fundamental-of-Intelligent-System-DSC-Course-Projects-and-Reports"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses/dsc.svg" alt="Licenses - DSC" width="100%" /></a>
 </p>
-
+<p>
+  <a href="https://github.com/ZinniXX004/Non-Stationary-Signal-Analysis-ASN-Course-Projects-and-Reports"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses/asn.svg" alt="Licenses - ASN" width="100%" /></a>
+</p>
+<p>
+  <a href="https://github.com/ZinniXX004/Biomedical-Image-Processing-PCM-Projects-and-Reports"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses/pcm.svg" alt="Licenses - PCM" width="100%" /></a>
+</p>
+<p>
+  <a href="https://github.com/ZinniXX004/Multimodal-Biomedical-Data-Analysis-MBDA-Projects-and-Reports"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses/mbda.svg" alt="Licenses - MBDA" width="100%" /></a>
+</p>
+<p>
+  <a href="https://github.com/ZinniXX004/RBC-UNet-Plus-Plus"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses/rbc-unet.svg" alt="Licenses - RBC UNet++" width="100%" /></a>
+</p>
 <p>
   <a href="https://github.com/ZinniXX004/Intro-to-Python"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses/intro-python.svg" alt="Licenses - Intro to Python" width="100%" /></a>
 </p>
+<p>
+  <a href="https://github.com/ZinniXX004/General-Methods-in-Machine-Learning-using-Python-and-R-"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses/ml-general.svg" alt="Licenses - General Methods in Machine Learning" width="100%" /></a>
+</p>
+<p>
+  <a href="https://github.com/ZinniXX004/CyberArena-CTF-Tutorial"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses/cyberarena.svg" alt="Licenses - CyberArena CTF Tutorial" width="100%" /></a>
+</p>
+<p>
+  <a href="https://github.com/ZinniXX004/identis-virtual-stylist"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses/identis.svg" alt="Licenses - identis virtual stylist" width="100%" /></a>
+</p>
+<p>
+  <a href="https://github.com/ZinniXX004/Yet-to-be-JoJo-s-RPG-Game-"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses/jojo-rpg.svg" alt="Licenses - Yet-to-be JoJo's RPG Game" width="100%" /></a>
+</p>
+</details>
+
+<br/>
 
 <p>
   <a href="https://github.com/ZinniXX004"><img src="https://streak-stats.demolab.com/?user=ZinniXX004&theme=shades-of-purple&hide_border=true&background=0D1117&ring=B558F6&fire=B558F6&currStreakLabel=B558F6&sideNums=FFFFFF&dates=FFFFFF" alt="Streak Stats" /></a>

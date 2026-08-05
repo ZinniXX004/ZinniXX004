@@ -117,9 +117,10 @@ jobs:
 
   # Repository license panels.
   # plugin_licenses only works with template: repository, so one panel per repo.
-  # Only repos that actually have BOTH a LICENSE file and a dependency manifest
-  # are listed here; plugin_licenses_setup installs the dependencies so that
-  # dependency licenses can be resolved (otherwise it reports 0 dependencies).
+  # NOTE: plugin_licenses_setup is intentionally NOT used. It made every panel
+  # fail with "Unexpected error". Without it the panel still reports the repo
+  # license plus permissions/limitations/conditions, but dependency licenses
+  # stay at 0 dependencies.
   # needs: metrics + max-parallel: 1 keeps commits to main sequential.
   licenses:
     runs-on: ubuntu-latest
@@ -129,18 +130,30 @@ jobs:
       max-parallel: 1
       matrix:
         include:
-          - repo: Yet-to-be-JoJo-s-RPG-Game-
-            slug: jojo-rpg
-            setup: cd src/core && cargo fetch
-          - repo: Multimodal-Biomedical-Data-Analysis-MBDA-Projects-and-Reports
-            slug: mbda
-            setup: pip install -r "MBDA_FP_GUI_ANN_CNN_root/requirements.txt"
+          - repo: Biomodelling-Course-Projects-and-Reports
+            slug: biomodelling
+          - repo: Biomedical-Signal-Processing-PSB-Course-Projects-and-Reports
+            slug: psb
+          - repo: Fundamental-of-Intelligent-System-DSC-Course-Projects-and-Reports
+            slug: dsc
+          - repo: Non-Stationary-Signal-Analysis-ASN-Course-Projects-and-Reports
+            slug: asn
           - repo: Biomedical-Image-Processing-PCM-Projects-and-Reports
             slug: pcm
-            setup: pip install -r "5023231017_Jeremia Christ Immanuel Manalu_Final Project_Nucleus Cell Detection and Segmentation_PCM/modular_scripts_root/requirements.txt"
+          - repo: Multimodal-Biomedical-Data-Analysis-MBDA-Projects-and-Reports
+            slug: mbda
+          - repo: RBC-UNet-Plus-Plus
+            slug: rbc-unet
           - repo: Intro-to-Python
             slug: intro-python
-            setup: pip install -r "5. Snake Game/requirements.txt"
+          - repo: General-Methods-in-Machine-Learning-using-Python-and-R-
+            slug: ml-general
+          - repo: CyberArena-CTF-Tutorial
+            slug: cyberarena
+          - repo: identis-virtual-stylist
+            slug: identis
+          - repo: Yet-to-be-JoJo-s-RPG-Game-
+            slug: jojo-rpg
     steps:
       - name: License panel for ${{ matrix.repo }}
         uses: lowlighter/metrics@latest
@@ -148,7 +161,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: ZinniXX004
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics/licenses/${{ matrix.slug }}.svg
           template: repository
           repo: ${{ matrix.repo }}
@@ -157,6 +169,4 @@ jobs:
           config_display: large
           config_padding: 4%, 6%
           plugin_licenses: yes
-          plugin_licenses_setup: ${{ matrix.setup }}
           plugin_licenses_ratio: yes
-          plugin_licenses_legal: yes
