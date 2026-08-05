@@ -108,18 +108,10 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/ZinniXX004"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Stats" /></a>
+      <a href="https://github.com/ZinniXX004"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Stats" width="100%" /></a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/ZinniXX004"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/ZinniXX004"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZinniXX004&theme=shades-of-purple&hide_border=true&background=0D1117&ring=B558F6&fire=B558F6&currStreakLabel=B558F6&sideNums=FFFFFF&dates=FFFFFF" alt="Streak Stats" /></a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/ZinniXX004"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/isocalendar.svg" alt="Isometric commit calendar" /></a>
+      <a href="https://github.com/ZinniXX004"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages" width="100%" /></a>
     </td>
   </tr>
 </table>
@@ -129,27 +121,36 @@
 </p>
 
 <p>
-  <a href="https://github.com/ZinniXX004"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ZinniXX004&theme=shades-of-purple&bg_color=0D1117&color=B558F6&line=B558F6&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" /></a>
+  <a href="https://github.com/ZinniXX004"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/isocalendar.svg" alt="Isometric commit calendar" width="100%" /></a>
 </p>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/ZinniXX004"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/languages.svg" alt="Language activity" /></a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/ZinniXX004"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/people.svg" alt="People" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/ZinniXX004"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses.svg" alt="Repository license" /></a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/ZinniXX004"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/habits.svg" alt="Achievements and habits" /></a>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/ZinniXX004"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/languages.svg" alt="Language activity" width="100%" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/ZinniXX004"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/people.svg" alt="People" width="100%" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/ZinniXX004"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses.svg" alt="Repository license" width="100%" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/ZinniXX004"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/habits.svg" alt="Recent coding habits" width="100%" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/ZinniXX004"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/achievements.svg" alt="Achievements" width="100%" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/ZinniXX004"><img src="https://streak-stats.demolab.com/?user=ZinniXX004&theme=shades-of-purple&hide_border=true&background=0D1117&ring=B558F6&fire=B558F6&currStreakLabel=B558F6&sideNums=FFFFFF&dates=FFFFFF" alt="Streak Stats" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/ZinniXX004"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ZinniXX004&theme=shades-of-purple&bg_color=0D1117&color=B558F6&line=B558F6&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" /></a>
+</p>
 
 </div>
 
