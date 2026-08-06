@@ -165,6 +165,9 @@
   <a href="https://github.com/ZinniXX004/RBC-UNet-Plus-Plus"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses/rbc-unet.svg" alt="Licenses - RBC UNet++" width="100%" /></a>
 </p>
 <p>
+  <a href="https://github.com/ZinniXX004/Cosmic-Clash-App"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses/cosmic-clash.svg" alt="Licenses - Cosmic Clash App" width="100%" /></a>
+</p>
+<p>
   <a href="https://github.com/ZinniXX004/Intro-to-Python"><img src="https://raw.githubusercontent.com/ZinniXX004/ZinniXX004/main/metrics/licenses/intro-python.svg" alt="Licenses - Intro to Python" width="100%" /></a>
 </p>
 <p>

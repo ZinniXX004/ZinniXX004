@@ -144,6 +144,8 @@ jobs:
             slug: mbda
           - repo: RBC-UNet-Plus-Plus
             slug: rbc-unet
+          - repo: Cosmic-Clash-App
+            slug: cosmic-clash
           - repo: Intro-to-Python
             slug: intro-python
           - repo: General-Methods-in-Machine-Learning-using-Python-and-R-
